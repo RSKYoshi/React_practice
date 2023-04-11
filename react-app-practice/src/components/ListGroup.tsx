@@ -12,5 +12,4 @@ function ListGroup() {
         </div>
     )
 }
-
 export default ListGroup;
